@@ -75,10 +75,6 @@ Sou desenvolvedor **Full Stack** com experiência em múltiplas linguagens e tec
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidRodriguesDev&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidRodriguesDev&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 🚀 Projetos em Destaque
